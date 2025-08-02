@@ -1,0 +1,19 @@
+# Ignore files and folders for Prettier formatting
+node_modules/
+build/
+dist/
+temp/
+public/temp/
+coverage/
+*.min.js
+*.bundle.js
+package-lock.json
+yarn.lock
+
+
+*.env
+.env
+.evn.*
+
+# ignore the vscode
+.vscode/
